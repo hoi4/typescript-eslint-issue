@@ -1,4 +1,3 @@
-/* eslint-disable */
 export default {
   displayName: 'nx19',
   preset: '../../jest.preset.js',
